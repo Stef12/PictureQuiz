@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Picture Quiz</string>
+
+    <string name="giraffe">Giraffe</string>
+    <string name="frog">Frog</string>
+    <string name="monkeys">Monkeys</string>
+
+    <string name="previous">prev</string>
+    <string name="check">check</string>
+    <string name="next">next</string>
+</resources>
